@@ -14,7 +14,7 @@ const Stats = () => (
           <h2>
             <Link to="/stats">Stats</Link>
           </h2>
-        </div>
+        </div> 
       </header>
       <Personal />
     </article>

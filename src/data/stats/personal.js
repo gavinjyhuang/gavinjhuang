@@ -35,6 +35,12 @@ const data = [
     label: 'Current city',
     value: 'Shanghai, China',
   },
+  {
+    key: 'music',
+    label: 'Currently listening to',
+    value: 'Jpop',
+    link: 'https://open.spotify.com/playlist/0Qqh6sHXgFEHSYYe9Lyl3T?si=2f60d1dd812e41fc',
+  },
 ];
 
 export default data;
